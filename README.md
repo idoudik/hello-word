@@ -1,2 +1,7 @@
 # hello-word
-My first gitHub repository
+============
+
+Hi Humans!!
+
+My name is Karim, and I like software Developement
+
